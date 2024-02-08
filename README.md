@@ -1,6 +1,6 @@
 <h1>Stopwatch in Arduino!</h1>
 <h2>Circuit</h2>
-<img src="ElectricCurcuit.jpg" width="550" title="ElectricCircuit_IRL">
+<img src="ElectricCircuit.jpg" width="550" title="ElectricCircuit_IRL">
 <h2>State Diagram</h2>
 <img src="StateDiagram.jpg" width="550" title="StateDiagram">
 <h2>How to use (Thai)</h2>
